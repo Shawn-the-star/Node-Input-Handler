@@ -1,0 +1,14 @@
+{
+  "name": "nodeinputhandler",
+  "version": "1.0.0",
+  "description": "A simple input handler for nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shawn",
+  "license": "ISC",
+  "dependencies": {
+    "events": "^3.3.0"
+  }
+}
